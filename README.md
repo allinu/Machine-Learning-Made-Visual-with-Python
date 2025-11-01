@@ -10,9 +10,9 @@ This book is intended for students, educators, developers, and self-learners see
 
 Repository link: [https://github.com/visualize-ml/Machine-Learning-Made-Visual-with-Python](https://github.com/visualize-ml/Machine-Learning-Made-Visual-with-Python)
 
-Anaconda download: [https://www.anaconda.com/](https://www.anaconda.com/)
-JupyterLab guide: [https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
-NumPy guide: [https://numpy.org/doc/stable/user/quickstart.html](https://numpy.org/doc/stable/user/quickstart.html)
-Pandas tutorial: [https://pandas.pydata.org/docs/user_guide/10min.html](https://pandas.pydata.org/docs/user_guide/10min.html)
-Matplotlib tutorials: [https://matplotlib.org/stable/tutorials/index.html](https://matplotlib.org/stable/tutorials/index.html)
-Scikit-learn guide: [https://scikit-learn.org/stable/user_guide.html](https://scikit-learn.org/stable/user_guide.html)
+Anaconda download: [https://www.anaconda.com/](https://www.anaconda.com/)  
+JupyterLab guide: [https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)  
+NumPy guide: [https://numpy.org/doc/stable/user/quickstart.html](https://numpy.org/doc/stable/user/quickstart.html)  
+Pandas tutorial: [https://pandas.pydata.org/docs/user_guide/10min.html](https://pandas.pydata.org/docs/user_guide/10min.html)  
+Matplotlib tutorials: [https://matplotlib.org/stable/tutorials/index.html](https://matplotlib.org/stable/tutorials/index.html)  
+Scikit-learn guide: [https://scikit-learn.org/stable/user_guide.html](https://scikit-learn.org/stable/user_guide.html)  
